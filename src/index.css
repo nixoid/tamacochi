@@ -1,0 +1,4 @@
+* { box-sizing: border-box; }
+html { background: #e99897; }
+body { min-width: 320px; margin: 0; }
+button { font: inherit; }
